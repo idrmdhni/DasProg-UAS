@@ -15,7 +15,7 @@ Aplikasi ini memungkinkan pengguna untuk melakukan hal berikut:
 * **Penyimpanan Data**: Menggunakan file `.txt` sederhana (`database.txt` dan `Tiket.txt`) untuk menyimpan data pengguna dan detail tiket.
 
 ## Cara Menjalankan Program
-1.  Pastikan Anda memiliki Python terpasang di komputer Anda.
+1.  Pastikan Anda memiliki Python terpasang di sistem operasi yang sedang digunakan.
 2.  Buka terminal atau command prompt.
 3.  Jalankan salah satu file Python utama:
     ```bash
